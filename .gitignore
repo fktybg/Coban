@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Çoban / Zerdeva Projesine Özel Engellemeler
+*.yedek
+zerdeva_beyni.json
+tdk_kokler.txt
